@@ -1,0 +1,18 @@
+{
+  "navBar": {
+    "mision": "nuestra misíon",
+    "profile": "mi cuenta",
+    "body": "decora tu hogar **en Madrid** de \n\n forma más fácil, barata y\n\n sostenible alquilando nuestros\n\n **muebles recuperados**",
+    "help": "¿podemos ayudarte?",
+    "configuration": "ajustes y configuración de cookies",
+    "since": "desde 21 · 12 · 2024",
+    "recovered": "muebles recuperados"
+  },
+  "footer": {
+    "recycleOne": "¿sabías que...?",
+    "recycleTwo": "somos una empresa\n\n comprometida con la\n\n sostenibilidad y, por eso,\n\n nuestra página web es baja\n\n en emisiones de CO2"
+  },
+  "home": {
+    "noMueble": "vaya... nada por aquí...\n\n No hemos encontrado muebles con\n\n las **caracteristicas** que buscas =(\n\n ¡Pero no te precupes! Sacamos \n\n muebles todas las semanas. Puedes\n\n **suscribete a nuestra newsletter**\n\n para enterarte de las novedades."
+  }
+}
